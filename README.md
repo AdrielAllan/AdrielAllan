@@ -1,37 +1,19 @@
-<h1 align="center">Hi 👋, I'm Adriel Allan</h1>
-<h3 align="center">A passionate frontend developer from Brasil</h3>
+# Olá, eu sou o Adriel 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/adriel-souza-4425282bb/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adriel souza" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/adriellsz" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adriellsz" height="30" width="40" />
-  </a>
-</p>
+Desenvolvedor Mobile e Backend (Flutter, Java) e estudante de Sistemas de Informação,
+buscando oportunidade de estágio, desenvolvedor(a) júnior ou suporte técnico em TI.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
-  </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>
-  </a>
-</p>
+Tenho experiência prática desenvolvendo aplicativos mobile e integrações de backend
+para clientes reais, incluindo apps com autenticação, agendamento e notificações push.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrielallan&show_icons=true&locale=en&layout=compact" alt="adrielallan" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adrielallan&show_icons=true&locale=en" alt="adrielallan" /></p>
+## 🚀 Projetos em destaque
+- **[LojaApp](https://github.com/AdrielAllan/LojaApp)** — App de loja (iOS/Android) em Flutter, com integração a API REST e gestão de produtos. Projeto freelance para cliente real.
+- **[push-notification](https://github.com/AdrielAllan/push-notification)** — Backend para notificações push em tempo real para aplicações mobile.
+- **[BotWhatsapp](https://github.com/AdrielAllan/BotWhatsapp)** — Bot de automação de atendimento via WhatsApp.
+
+## 🛠️ Stack
+Java · Dart/Flutter · TypeScript · C++ · APIs REST · Firebase · SQL · Git/GitHub
+
+## 📫 Contato
+- LinkedIn: https://www.linkedin.com/in/adriel-souza-4425282bb/
+- Email: adriel-souza11@hotmail.com
